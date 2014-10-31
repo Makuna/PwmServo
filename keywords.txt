@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map PwmServo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+pwmServoAttachPin	KEYWORD2
+pwmServoDetachPin	KEYWORD2
+pwmServoWrite	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+pwmServoCenter	LITERAL1
+pwmServoLow	LITERAL1
+pwmServoHigh	LITERAL1
+pwmServo1ms	LITERAL1
