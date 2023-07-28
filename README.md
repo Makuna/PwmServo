@@ -3,7 +3,7 @@ PwmServo
 
 Hardware driven, non glitching, high resolution, hobby servo library.  
 
-NOTE: 16mhz only.
+NOTE: AVR 16mhz only.
 
 
 Installing This Library:
